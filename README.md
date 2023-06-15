@@ -1,8 +1,11 @@
 # Preparation
 
 (1) Set up the environment `Miniconda / conda3 / 3.8(ubuntu20.04) / 11.6`
+
 (2) Run `conda install -c conda-forge mpi4py mpich`
+
 (3) Run `pip install diffusers`
+
 (4) Run `pip install timm`
 
 (5) Run 
