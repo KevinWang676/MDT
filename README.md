@@ -1,15 +1,16 @@
 # Preparation
 
-(1) Run `conda install -c conda-forge mpi4py mpich`
-(2) Run `pip install diffusers`
-(3) Run `pip install timm`
+(1) Set up the environment `Miniconda / conda3 / 3.8(ubuntu20.04) / 11.6`
+(2) Run `conda install -c conda-forge mpi4py mpich`
+(3) Run `pip install diffusers`
+(4) Run `pip install timm`
 
-(4) Run 
+(5) Run 
 ```
 set https_proxy=http://username:password@proxy.example.com:8080
 set http_proxy=http://username:password@proxy.example.com:8080
 ```
-(5) Run `pip install pylxd==2.3.0`
+(6) Run `pip install pylxd==2.3.0`
 
 # Masked Diffusion Transformer
 
