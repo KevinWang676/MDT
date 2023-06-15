@@ -8,6 +8,7 @@
 set https_proxy=http://username:password@proxy.example.com:8080
 set http_proxy=http://username:password@proxy.example.com:8080
 ```
+(5) Run `pip install pylxd==2.3.0`
 
 # Masked Diffusion Transformer
 
