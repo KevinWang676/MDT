@@ -3,6 +3,7 @@
 (1) Run `conda install -c conda-forge mpi4py mpich`
 (2) Run `pip install diffusers`
 (3) Run `pip install timm`
+
 (4) Run 
 ```
 set https_proxy=http://username:password@proxy.example.com:8080
