@@ -1,3 +1,9 @@
+# Preparation
+
+(1) Run `conda install -c conda-forge mpi4py mpich`
+(2) Run `pip install diffusers`
+(3) Run `pip install timm`
+
 # Masked Diffusion Transformer
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-diffusion-transformer-is-a-strong/image-generation-on-imagenet-256x256)](https://paperswithcode.com/sota/image-generation-on-imagenet-256x256?p=masked-diffusion-transformer-is-a-strong)
