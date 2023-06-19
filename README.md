@@ -2,15 +2,23 @@
 
 (1) Set up the environment `Miniconda / conda3 / 3.8(ubuntu20.04) / 11.6`
 
-(2) Run `conda install -c conda-forge mpi4py mpich`
+(2) Run
+```
+git clone https://github.com/sail-sg/MDT
+cd MDT
+pip install -e .
+```
 
-(3) Run
+(3) Run `conda install -c conda-forge mpi4py mpich`
+
+(4) Run
 ```
 pip install diffusers
 pip install timm
 pip install transformers
 pip install accelerate
 ```
+
 (5) Run 
 ```
 set https_proxy=http://username:password@proxy.example.com:8080
